@@ -1,6 +1,5 @@
 import Grid from "@material-ui/core/Grid";
 import React from "react";
-import theme from "../MuiTheme";
 import makeStyles from "@material-ui/core/styles/makeStyles";
 import logo from "../images/logo.png";
 
